@@ -26,7 +26,7 @@
 
 * [Create a new app](build-apps/create-a-new-app.md)
 * [App editor](build-apps/app-editor.md)
-* [Design app U](build-apps/design-app-ui/README.md)
+* [Design app UI](build-apps/design-app-ui/README.md)
   * [Style and usability](build-apps/design-app-ui/style-and-usability.md)
   * [App layout](build-apps/design-app-ui/app-layout.md)
 * [Event handlers](build-apps/event-handlers.md)
