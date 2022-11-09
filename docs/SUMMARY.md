@@ -26,9 +26,9 @@
 
 * [Create a new app](build-apps/create-a-new-app.md)
 * [App editor](build-apps/app-editor.md)
-* [Design app U](build-apps/design-app-u/README.md)
-  * [Style and usability](build-apps/design-app-u/style-and-usability.md)
-  * [App layout](build-apps/design-app-u/app-layout.md)
+* [Design app U](build-apps/design-app-ui/README.md)
+  * [Style and usability](build-apps/design-app-ui/style-and-usability.md)
+  * [App layout](build-apps/design-app-ui/app-layout.md)
 * [Event handlers](build-apps/event-handlers.md)
 * [Write JavaScript](build-apps/write-javascript/README.md)
   * [Write JavaScript in \{{ \}}](build-apps/write-javascript/write-javascript-in.md)
