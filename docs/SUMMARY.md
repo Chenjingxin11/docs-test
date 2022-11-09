@@ -1,7 +1,6 @@
 # Table of contents
 
-* [Getting started](README.md)
-  * [Openblocks overview](getting-started/openblocks-overview.md)
+* [Openblocks overview](README.md)
 * [Self hosting](self-hosting.md)
 * [Security](security.md)
 * [What's new](whats-new.md)
