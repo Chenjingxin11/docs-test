@@ -22,4 +22,4 @@ Click your app name and select **Export to JSON**, the app will be exported to a
 
 You can import an existing app in a JSON format by clicking **New > Import**.
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>

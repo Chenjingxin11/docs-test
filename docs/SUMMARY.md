@@ -43,4 +43,4 @@
 * [Permissions](workspace-management/permissions.md)
 * [Authentication and SSO](workspace-management/authentication-and-sso.md)
 * [Version and release management](workspace-management/version-and-release-management.md)
-* [Audit log](workspace-management/audit-log.md)
+* [Audit logs](workspace-management/audit-logs.md)
