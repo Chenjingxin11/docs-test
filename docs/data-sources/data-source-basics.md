@@ -27,7 +27,7 @@ Follow the steps below:
 
 You can also connect to a new data source when creating or editing queries in query library or query editor.
 
-<figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption><p>query editor</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (4) (1).png" alt=""><figcaption><p>query editor</p></figcaption></figure>
 
 <figure><img src="../.gitbook/assets/image.png" alt=""><figcaption><p>query library</p></figcaption></figure>
 
