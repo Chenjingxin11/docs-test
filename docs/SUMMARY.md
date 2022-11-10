@@ -42,5 +42,5 @@
 * [Members and groups](workspace-management/members-and-groups.md)
 * [Permissions](workspace-management/permissions.md)
 * [Authentication and SSO](workspace-management/authentication-and-sso.md)
-* [Application lifecycle](workspace-management/application-lifecycle.md)
+* [Version and release management](workspace-management/version-and-release-management.md)
 * [Audit log](workspace-management/audit-log.md)

@@ -4,7 +4,7 @@ Data source is where you manage credentials and make connections to various popu
 
 Openblocks stores your credentials securely and does not store any data from your requests or responses. It only serves as a proxy between client side and your data sources.
 
-### Connect to a new data source
+## Connect to a new data source
 
 {% hint style="info" %}
 Check out [IP allowlist](ip-allowlist.md) and add Openblocks IP addresses to your data source allowlist when needed.
@@ -27,7 +27,7 @@ You can also connect to a new data source when creating or editing queries in qu
 
 \[pic]
 
-### Permissions
+## Permissions
 
 In Openblocks, members with permissions to create, edit, delete and use data sources **** are listed as follows:
 
